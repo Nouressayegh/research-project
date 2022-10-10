@@ -71,36 +71,36 @@ For the bibliography, each fundamental step of the project had some interesting 
 
 __Voice activity detection__
 
-[1] Tom Bächstöm, Voice activity detection (VAD) - Introduction to Speech Processing,  Aalto University Wiki, 2019.\\
+[1] Tom Bächstöm, Voice activity detection (VAD) - Introduction to Speech Processing,  Aalto University Wiki, 2019.
 
-[2] H. Bredin, R. Yin, J. Manuel Coria, G. Gelly, P. Korshunov, M. Lavechin, D. Fustes, H. Titeux, W Bouaziz, M. Gill, Pyannote.audio: Neural building blocks for speaker diarization, 2019.1111.\\
-
-
-[3] A. Graves, N. Jaitly and A. Mohamed, Hybrid Speech Recognition With Deep Bidirectional LSTM, University of Toronto, 2013.\\
-
-[4] G. Gelly and J. Gauvain, Optimization of RNN-Based Speech Activity Detection, 2018.\\
-
-\textbf{Connectionist Temporal Classification :}\\
-
-[5]  Harald Scheidl, "An Intuitive Explanation of Connectionist Temporal Classification", TDS, 2018.\\
-
-[6]  Hannun, "Sequence Modeling with CTC", Distill, 2017.\\
-
-[7]  A. Masmoudi, F. Bougares, M. Ellouze, Y. Esteve, L. Belguith, "Automatic Speech Recognition System for TunisianDialect", Language Resources and Evaluation, Springer Verlag, 2018.\\
+[2] H. Bredin, R. Yin, J. Manuel Coria, G. Gelly, P. Korshunov, M. Lavechin, D. Fustes, H. Titeux, W Bouaziz, M. Gill, Pyannote.audio: Neural building blocks for speaker diarization, 2019.1111.
 
 
-[8] X. Kong, J. Choi, S.Shattuck Hufnagel, "Evaluating Automatic Speech Recognition Systems in Comparison With Human Perception Results Using Distinctive Feature Measures", IEEE, 2017.\\
+[3] A. Graves, N. Jaitly and A. Mohamed, Hybrid Speech Recognition With Deep Bidirectional LSTM, University of Toronto, 2013.
+
+[4] G. Gelly and J. Gauvain, Optimization of RNN-Based Speech Activity Detection, 2018.
+
+__Connectionist Temporal Classification :__
+
+[5]  Harald Scheidl, "An Intuitive Explanation of Connectionist Temporal Classification", TDS, 2018.
+
+[6]  Hannun, "Sequence Modeling with CTC", Distill, 2017.
+
+[7]  A. Masmoudi, F. Bougares, M. Ellouze, Y. Esteve, L. Belguith, "Automatic Speech Recognition System for TunisianDialect", Language Resources and Evaluation, Springer Verlag, 2018.
 
 
-[9]  Mirco Ravanelli and Titouan, "Introduction to SpeechBrain", SpeechBrain official site, 2021.\\
-
-\textbf{ XLS-R :}\\
-
-[10] A. Baevski, H. Zhou, A. Mohamed, M.l Auli, wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations,2020.\\
+[8] X. Kong, J. Choi, S.Shattuck Hufnagel, "Evaluating Automatic Speech Recognition Systems in Comparison With Human Perception Results Using Distinctive Feature Measures", IEEE, 2017.
 
 
-[11] P. von Platen, Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with Transformers, 2021.\\
+[9]  Mirco Ravanelli and Titouan, "Introduction to SpeechBrain", SpeechBrain official site, 2021.
+
+__XLS-R__ 
+
+[10] A. Baevski, H. Zhou, A. Mohamed, M.l Auli, wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations,2020.
 
 
-[12] XLS-R: Self-supervised speech processing for 128 languages by Meta IA 2018.\\
+[11] P. von Platen, Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with Transformers, 2021.
+
+
+[12] XLS-R: Self-supervised speech processing for 128 languages by Meta IA 2018.
 
